@@ -13,7 +13,7 @@
 # limitations under the License.
 
 #CI/CD Test1
-#Data Lake CI/CD Testing 1
+# Testing
 terraform {
   required_version = ">= 0.12.0"
 }
